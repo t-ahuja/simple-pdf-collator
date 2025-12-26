@@ -3,6 +3,8 @@
 ![Library](https://img.shields.io/badge/dependency-pypdf-orange)
 ![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
 
+![GitHub stars](https://img.shields.io/github/stars/t-ahuja/simple-pdf-collator?style=social)
+
 # PDF Collator
 
 A simple and minimalist tool for combining multiple PDF files into one PDF with the ability to rearrange them.
