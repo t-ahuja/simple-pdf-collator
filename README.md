@@ -1,3 +1,8 @@
+![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Library](https://img.shields.io/badge/dependency-pypdf-orange)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
+
 # PDF Collator
 
 A simple and minimalist tool for combining multiple PDF files into one PDF with the ability to rearrange them.
