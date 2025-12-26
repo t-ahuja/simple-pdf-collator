@@ -37,3 +37,4 @@ A simple and minimalist tool for combining multiple PDF files into one PDF with 
 
 - Python 3.7+
 - pypdf library
+<img width="875" height="844" alt="image" src="https://github.com/user-attachments/assets/fca208da-c30c-4e86-9742-969177069ff0" />
